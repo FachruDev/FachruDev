@@ -1,4 +1,4 @@
-<a href="https://fchdxcode.github.io/" target="_blank"><h1 align="center">Hi 👋, I'm Fachru</h1></a>
+<a href="https://fchdxcode.github.io/" target="_blank"  rel="noreferrer"><h1 align="center">Hi 👋, I'm Fachru</h1></a>
 
 <h3 align="center">Im Beginner Android Developer</h3>
 

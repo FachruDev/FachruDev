@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **fachru005@gmail.com**
 
-- ⚡ Fun fact **is so funy bro hahaha**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: -</h3>
 <p align="left">
 </p>
 

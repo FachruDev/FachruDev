@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AI-Assisted%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Web%20|%20Mobile&descSize=20&descAlignY=62&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AI-Assisted%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Backend%20|%20Mobile&descSize=20&descAlignY=62&descAlign=50" />
 </div>
 
 <h1 align="center">
@@ -12,7 +12,7 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Specialization-AI%20Assisted%20Development-brightgreen" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
+    <img src="https://img.shields.io/badge/Focus-Python%20Development-blue" />
     <img src="https://img.shields.io/badge/Learning-Machine%20Learning%20Foundations-red" />
   </p>
 

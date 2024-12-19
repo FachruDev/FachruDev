@@ -18,7 +18,7 @@
 
   🔭 I specialize in **AI-Assisted Development** - leveraging AI tools to create efficient solutions
   
-  🌱 Currently mastering **Python Ecosystem & Web Development**
+  🌱 Currently mastering **Python Ecosystem & Backend Development**
   
   💡 Skilled at **Translating Ideas into Code using AI**
   
@@ -30,32 +30,32 @@
   <!-- Backend Development -->
   <h3>Backend Development</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-★★★-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-★★☆-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-★★☆-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-★★★☆☆-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-★★☆☆☆-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </p>
   
   <!-- Frontend Development -->
   <h3>Frontend & Mobile</h3>
   <p>
-    <img src="https://img.shields.io/badge/React-★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Flutter-★★★-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-★★☆-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-★★☆☆☆-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Flutter-★★☆☆☆-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind-★★★☆☆-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </p>
   
   <!-- Databases -->
   <h3>Databases</h3>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-★★★-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-★★☆-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-★★☆☆☆-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 
   <!-- AI Tools -->
   <h3>AI-Assisted Development</h3>
   <p>
-    <img src="https://img.shields.io/badge/GitHub_Copilot-★★★-000000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/ChatGPT-★★★-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Claude-★★★-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-★★★☆☆-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/ChatGPT-★★★★☆-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude-★★★★☆-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
   </p>
 </div>
 

@@ -1,83 +1,110 @@
+<!-- Custom Banner -->
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.gif"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AI-Assisted%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Web%20|%20Mobile&descSize=20&descAlignY=62&descAlign=50" />
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Fachru!;Nice+to+meet+you!+✨" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Fachru!;AI+Assisted+Developer;Turning+Ideas+Into+Code!" />
 </h1>
 
-<h3 align="center">A Passionate Android Developer from Indonesia 🇮🇩</h3>
-
-<br/>
-
 <div align="center">
- 
- 🔭 I'm currently working on **Android Development**
- 
- 🌱 I'm currently learning **Fullstack Android Development**
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Specialization-AI%20Assisted%20Development-brightgreen" />
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
+    <img src="https://img.shields.io/badge/Learning-Machine%20Learning%20Foundations-red" />
+  </p>
 
- 💬 Feel free to ask me about **Kotlin, Android Studio, Flutter** 
-
- </div>
-
-<div align="center"> 
-  <a href="mailto:fachru005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://fchdxcode.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+  🔭 I specialize in **AI-Assisted Development** - leveraging AI tools to create efficient solutions
+  
+  🌱 Currently mastering **Python Ecosystem & Web Development**
+  
+  💡 Skilled at **Translating Ideas into Code using AI**
+  
+  🎯 Goal: **Bridging AI and Traditional Development**
 </div>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center">🛠️ Technical Skills & Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,android,dart,flutter,react" />
-    <img src="https://skillicons.dev/icons?i=typescript,mysql,figma,github,vscode" /><br>
+  <!-- Backend Development -->
+  <h3>Backend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-★★★-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-★★☆-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-★★☆-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </p>
+  
+  <!-- Frontend Development -->
+  <h3>Frontend & Mobile</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Flutter-★★★-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind-★★☆-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
+  
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-★★★-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-★★☆-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
+
+  <!-- AI Tools -->
+  <h3>AI-Assisted Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub_Copilot-★★★-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/ChatGPT-★★★-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude-★★★-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </p>
 </div>
 
-<br/>
-<hr/>
-
+<h2 align="center">🎯 Learning Journey & Goals</h2>
 <div align="center">
-  <h2>🤖 Contributions & Activity 🤖</h2>
-  <br>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%">
-  
-  <!-- Additional Metrics -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fchdxcode&theme=github_dark" width="100%">
-  
-  <br/><br/>
+  <table>
+    <tr>
+      <th>Timeline</th>
+      <th>Achievement/Goal</th>
+    </tr>
+    <tr>
+      <td>Q1 2024</td>
+      <td>✅ Mastered Python & Django Fundamentals</td>
+    </tr>
+    <tr>
+      <td>Q2 2024</td>
+      <td>🎯 Advanced AI-Assisted Development Techniques</td>
+    </tr>
+    <tr>
+      <td>Q3 2024</td>
+      <td>🎯 Machine Learning Foundations</td>
+    </tr>
+    <tr>
+      <td>Q4 2024</td>
+      <td>🎯 AI/ML Project Implementation</td>
+    </tr>
+  </table>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=fchdxcode&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=fchdxcode&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fchdxcode&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
-
-<hr/>
-
+<h2 align="center">📚 Certifications & Learning</h2>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <!-- Add your actual certifications here -->
+  <a href="#"><img src="https://img.shields.io/badge/Python_Programming-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_Fundamentals-Future_Course-FF0000?style=for-the-badge&logo=udacity&logoColor=white" /></a>
 </div>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+connect+and+collaborate!;Drop+me+a+message+anytime!">
-</h3>
+<br>
 
-<br/>
+<!-- GitHub Activity -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&area=true&hide_border=true" width="95%" alt="activity graph">
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
+</div>

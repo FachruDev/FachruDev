@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AI-Assisted%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Backend%20|%20Mobile&descSize=20&descAlignY=62&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Backend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Backend%20|%20Mobile&descSize=20&descAlignY=62&descAlign=50" />
 </div>
 
 <h1 align="center">
@@ -56,6 +56,16 @@
     <img src="https://img.shields.io/badge/GitHub_Copilot-★★★☆☆-000000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/ChatGPT-★★★★☆-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Claude-★★★★☆-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </p>
+</div>
+
+<h3>Development & Platform Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/RedHat-★★☆☆☆-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ngrok-★★★☆☆-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-★★☆☆☆-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-★★☆☆☆-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-★★★★☆-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
 </div>
 

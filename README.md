@@ -57,7 +57,6 @@
     <img src="https://img.shields.io/badge/ChatGPT-★★★★☆-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Claude-★★★★☆-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
   </p>
-</div>
 
 <h3>Development & Platform Tools</h3>
   <p>

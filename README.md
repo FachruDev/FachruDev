@@ -58,13 +58,14 @@
     <img src="https://img.shields.io/badge/Claude-★★★★☆-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
   </p>
 
-<h3>Development & Platform Tools</h3>
+<h3>Development & More Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/RedHat-★★☆☆☆-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
     <img src="https://img.shields.io/badge/Ngrok-★★★☆☆-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-★★☆☆☆-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-★★☆☆☆-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/VS_Code-★★★★☆-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
 </div>
 

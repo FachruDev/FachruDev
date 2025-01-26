@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Backend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Backend%20|%20Mobile&descSize=20&descAlignY=62&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Backend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Backend%20|%Blockchain&descSize=20&descAlignY=62&descAlign=50" />
 </div>
 
 <h1 align="center">

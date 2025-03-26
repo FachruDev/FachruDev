@@ -1,109 +1,166 @@
-<!-- Custom Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Backend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=Python%20|%20Backend%20|%20Blockchain&descSize=20&descAlignY=62&descAlign=50" />
-</div>
+<!-- Header Section with Animated Banner -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=vortex&color=gradient&customColorList=12,30,24,18,19&height=300&section=header&text=Fachru&desc=AI%20Assisted%20Developer&fontSize=60&fontAlignY=40&descAlignY=55&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
+<!-- Introduction Section with Animated Text -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Fachru!;AI+Assisted+Developer;Turning+Ideas+Into+Code!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=35&pause=1000&color=2D9CDB&center=true&vCenter=true&random=false&width=600&height=70&lines=Selamat+Datang!+%F0%9F%91%8B;AI+Assisted+Developer;Python+%7C+Backend+%7C+Blockchain;Mengubah+Ide+Menjadi+Kode!" />
 </h1>
 
+<!-- Stylish Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+</p>
+
+<!-- About Me Section with Icons -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h2>👨‍💻 Tentang Saya</h2>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Specialization-AI%20Assisted%20Development-brightgreen" />
-    <img src="https://img.shields.io/badge/Focus-Python%20Development-blue" />
-    <img src="https://img.shields.io/badge/Learning-Machine%20Learning%20Foundations-red" />
+    <img src="https://img.shields.io/badge/-AI%20Assisted%20Developer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Backend%20Specialist-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white" />
   </p>
 
-  🔭 I specialize in **AI-Assisted Development** - leveraging AI tools to create efficient solutions
-  
-  🌱 Currently mastering **Python Ecosystem & Backend Development**
-  
-  💡 Skilled at **Translating Ideas into Code using AI**
-  
-  🎯 Goal: **Bridging AI and Traditional Development**
+  <p align="center">
+    <b>🔭 Spesialisasi:</b> Pengembangan berbantu AI - memanfaatkan teknologi AI untuk solusi efisien<br>
+    <b>🌱 Sedang memperdalam:</b> Ekosistem Python & Pengembangan Backend<br>
+    <b>💡 Keahlian:</b> Menerjemahkan ide menjadi kode dengan bantuan AI<br>
+    <b>🎯 Tujuan:</b> Menjembatani AI dan pengembangan tradisional
+  </p>
 </div>
 
-<h2 align="center">🛠️ Technical Skills & Tools</h2>
+<!-- Animated Experience Timeline -->
+<h2 align="center">🚀 Perjalanan Profesional</h2>
 <div align="center">
-  <!-- Backend Development -->
-  <h3>Backend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-★★★☆☆-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-★★☆☆☆-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  </p>
-  
-  <!-- Frontend Development -->
-  <h3>Frontend & Mobile</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-★★☆☆☆-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Flutter-★★☆☆☆-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-★★★☆☆-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </p>
-  
-  <!-- Databases -->
-  <h3>Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-★★☆☆☆-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
-
-  <!-- AI Tools -->
-  <h3>AI-Assisted Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/GitHub_Copilot-★★★☆☆-000000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/ChatGPT-★★★★☆-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Claude-★★★★☆-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
-  </p>
-
-<h3>Development & More Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/RedHat-★★☆☆☆-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ngrok-★★★☆☆-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-★★☆☆☆-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-★★☆☆☆-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-★★★★☆-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </p>
+  <table border="0" align="center">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fchdxcode&repo=your-project-1&theme=tokyonight" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fchdxcode&repo=your-project-2&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-<hr/>
-
+<!-- Technical Skills with Modern Design -->
 <div align="center">
-  <h2>🤖 Contributions & Activity 🤖</h2>
-  <br>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%">
-  
-  <!-- Additional Metrics -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fchdxcode&theme=github_dark" width="100%">
-  
-  <br/><br/>
+  <h2>🛠️ Keahlian Teknis & Perangkat</h2>
+
+  <!-- Tech Stack Tabs -->
+  <details open>
+    <summary><b>📊 Pengembangan Backend</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Django-★★★☆☆-092E20?style=flat-square&logo=django&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Flask-★★☆☆☆-000000?style=flat-square&logo=flask&logoColor=white&labelColor=282828" />
+    </p>
+  </details>
+
+  <details>
+    <summary><b>🎨 Frontend & Mobile</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/React-★★☆☆☆-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Flutter-★★☆☆☆-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Tailwind-★★★☆☆-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=282828" />
+    </p>
+  </details>
+
+  <details>
+    <summary><b>🗄️ Database</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/PostgreSQL-★★☆☆☆-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=282828" />
+    </p>
+  </details>
+
+  <details>
+    <summary><b>🤖 Pengembangan Berbantu AI</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/GitHub_Copilot-★★★☆☆-000000?style=flat-square&logo=github&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/ChatGPT-★★★★☆-74aa9c?style=flat-square&logo=openai&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Claude-★★★★☆-8A2BE2?style=flat-square&logo=anthropic&logoColor=white&labelColor=282828" />
+    </p>
+  </details>
+
+  <details>
+    <summary><b>🔧 Perangkat Pengembangan</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/RedHat-★★☆☆☆-EE0000?style=flat-square&logo=red-hat&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Ngrok-★★★☆☆-1F1E37?style=flat-square&logo=ngrok&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Git-★★☆☆☆-F05032?style=flat-square&logo=git&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Docker-★★☆☆☆-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/VS_Code-★★★★☆-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=282828" />
+      <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=282828" />
+    </p>
+  </details>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=fchdxcode&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=fchdxcode&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fchdxcode&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<!-- 3D Contribution Graph -->
+<h2 align="center">📊 Kontribusi & Aktivitas</h2>
+<div align="center">
+  <!-- Modern Activity Graph -->
+  <a href="https://github.com/fchdxcode">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=58A6FF&point=58A6FF&color=58A6FF" width="95%">
+  </a>
+  
+  <!-- Metrics in Cards Layout -->
+  <div align="center">
+    <a href="https://github.com/fchdxcode">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fchdxcode&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" width="49%" />
+    </a>
+    <a href="https://github.com/fchdxcode">
+      <img src="https://github-readme-stats.vercel.app/api?username=fchdxcode&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true" width="49%"/>
+    </a>
+  </div>
+  
+  <!-- Language Stats -->
+  <a href="https://github.com/fchdxcode">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchdxcode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="60%" />
+  </a>
 </div>
 
-<br/><br/>
+<!-- Quote Section -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
 
+<!-- Contact Section with Animated Icons -->
+<h2 align="center">🌐 Mari Terhubung</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fchdxcode/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/fchdxcode" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://medium.com/@fchdxcode" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+  <a href="https://dev.to/fchdxcode" target="blank">
+    <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdot&logoColor=white" alt="dev.to" />
+  </a>
+</p>
+
+<!-- Visitors Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fchdxcode&label=Pengunjung&color=58A6FF&style=for-the-badge" alt="Profile views" />
+</div>
+
+<!-- Closing Animated Text -->
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+connect+and+collaborate!;Drop+me+a+message+anytime!">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=25&duration=3000&pause=1000&color=58A6FF&center=true&width=550&lines=Terima+kasih+sudah+mengunjungi!+✌️;Mari+berkolaborasi!;Hubungi+saya+kapan+saja!" />
 </h3>
 
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
-</div>
+<!-- Footer Section with Animated Banner -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,24,18,19&height=120&section=footer&animation=twinkling"/>
+</p>

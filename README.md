@@ -199,7 +199,7 @@
     <tr>
       <!-- Now Playing -->
       <td width="50%" align="center">
-        <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m" target="_blank">
+        <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m" target="_blank" rel="noopener noreferrer">
           <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
         </a>
       </td>
@@ -216,22 +216,22 @@
 <h2 align="center">🤝 Let's Connect!</h2>
 <div align="center">
   <!-- Row 1: Professional Contacts -->
-  <a href="mailto:fachru005@gmail.com" target="_blank" title="Send me an email">
+  <a href="mailto:fachru005@gmail.com" target="_blank" rel="noopener noreferrer" title="Send me an email">
     <img src="https://img.shields.io/badge/Let's_Connect_via_Email-black?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
-  <a href="www.linkedin.com/in/muhammad-fachru-buchori-83010728a" target="_blank" title="Connect with me on LinkedIn">
+  <a href="www.linkedin.com/in/muhammad-fachru-buchori-83010728a" target="_blank" rel="noopener noreferrer" title="Connect with me on LinkedIn">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
   
   <br/>
   
   <!-- Row 2: Social Media -->
-  <a href="https://www.instagram.com/f4_rpl2/" target="_blank" title="Follow me on Instagram">
+  <a href="https://www.instagram.com/f4_rpl2/" target="_blank" rel="noopener noreferrer" title="Follow me on Instagram">
     <img src="https://img.shields.io/badge/Follow_on_Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   
   <!-- Row 3: Tech Platform -->
-  <a href="https://huggingface.co/Fch404" target="_blank" title="View My Ai Model">
+  <a href="https://huggingface.co/Fch404" target="_blank" rel="noopener noreferrer" title="View My Ai Model">
     <img src="https://img.shields.io/badge/Check_My_AI_Models-black?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
   </a>
   

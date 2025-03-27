@@ -140,13 +140,11 @@
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%">
   
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchdxcode/fchdxcode/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fchdxcode/fchdxcode/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fchdxcode/fchdxcode/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+  <!-- 3D Contribution Graph -->
+  <h3>🎮 Visualisasi Kontribusi 3D</h3>
+  <a href="https://github.com/FchDxCode/FchDxCode/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" src="https://github.com/FchDxCode/FchDxCode/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
+  </a>
 
   <!-- Activity Timeline -->
   <h3>⏰ Pola Aktivitas</h3>

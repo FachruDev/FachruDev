@@ -1,17 +1,12 @@
 <!-- Custom Banner dengan Animasi -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=AI%20Backend%20Developer&fontSize=50&fontColor=fff&animation=twinkling&desc=Python%20|%20Backend%20|%20AI%20Development&descSize=20&descAlignY=62&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Fullstack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&desc=Python%20|%20Backend%20|%20AI%20Integration&descSize=20&descAlignY=62&descAlign=50" />
 </div>
 
 <!-- Header Typing Animation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Halo+Semua!+👋;Saya+Fachru!;AI+Assisted+Developer;Mengubah+Ide+Menjadi+Kode!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;I'm+Fachru!;Fullstack+Developer;Turning+Ideas+Into+Code!" />
 </h1>
-
-<!-- Status -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Aktif%20Mengerjakan%20Proyek-success?style=for-the-badge&logo=statuspage&logoColor=white" />
-</div>
 
 <!-- Divider -->
 <div align="center">
@@ -26,16 +21,22 @@
         <img src="https://github-stats-alpha.vercel.app/api?username=fchdxcode&cc=000&tc=fff&ic=fff&bc=000" />
       </td>
       <td width="60%">
-        <h3 align="left">⚡ Tentang Saya</h3>
+        <h3 align="left">⚡ About Me</h3>
         <ul align="left">
-          <li>🔭 Spesialis <strong>AI-Assisted Development</strong></li>
-          <li>🌱 Fokus pada <strong>Python & Backend Development</strong></li>
-          <li>💡 Expert dalam <strong>Problem Solving dengan AI</strong></li>
-          <li>🎯 Visi: <strong>Bridging AI & Traditional Development</strong></li>
+          <li>🚀 Current: <strong>Fullstack Developer specializing in Software & Web Apps</strong></li>
+          <li>💻 Tech Stack: <strong>Python, JavaScript, and Modern Technologies</strong></li>
+          <li>🔍 Interest: <strong>AI Integration Development</strong></li>
+          <li>🛠️ Expertise: <strong>Backend Development & System Architecture</strong></li>
+          <li>🎯 Projects: <strong>Scalable Solutions & AI-Powered Applications</strong></li>
         </ul>
       </td>
     </tr>
-  </table>
+</table>
+  
+  <!-- Status -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Working_on_Projects-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+</div>
 
   <!-- Quick Stats -->
   <p align="center">
@@ -52,7 +53,6 @@
   <details open>
     <summary><b>🔙 Backend Development</b></summary>
     <br/>
-    <!-- Tech Stack Badges -->
     <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -78,7 +78,6 @@
   <details open>
     <summary><b>🎨 Frontend & Mobile</b></summary>
     <br/>
-    <!-- Tech Stack Badges -->
     <p align="center">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -100,7 +99,6 @@
 
   <details open>
     <summary><b>🗄️ Database & Tools</b></summary>
-    <!-- Tech Stack Badges -->
     <p align="center">
         <!-- Database -->
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -157,14 +155,13 @@
 <!-- GitHub Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=fchdxcode&theme=algolia&no-frame=true&row=1&column=6" width="100%" />
   
   <br/><br/>
   
 <!-- Detailed Stats -->
 <details>
-  <summary><b>📈 Statistik Detail</b></summary>
+  <summary><b>📈 Detailed Statistics</b></summary>
   <br/>
   <div align="center">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=fchdxcode&theme=react&hide_border=true" />
@@ -176,57 +173,76 @@
   </div>
 </details>
   
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%">
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%">
   
-<!-- Alternative GitHub Activity Visualization -->
-<h3>📊 Visualisasi Aktivitas GitHub</h3>
+<!-- GitHub Activity Visualization -->
+<h3>📊 GitHub Activity Visualization</h3>
 <div align="center">
   <!-- Calendar Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FchDxCode&theme=github_dark" width="100%" />
   <br/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <!-- Spotify Integration -->
 <div align="center">
-  <!-- Header -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎵+Musik+Favoritku" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎵+My+Favorite+Music" />
   </h3>
 
-  <!-- Now Playing -->
-  <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-  </a>
-
-  <!-- Spotify Stats -->
-  <details>
-    <summary>📊 Statistik Spotify</summary>
-    <br/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpx2l2o5yn2rnhdhhbvoospt6m&count=5&unique=true" />
-  </details>
+  <!-- Spotify Container -->
+  <table width="100%">
+    <tr>
+      <!-- Now Playing -->
+      <td width="50%" align="center">
+        <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m" target="_blank">
+          <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+        </a>
+      </td>
+      
+  <!-- Recently Played -->
+  <td width="50%" align="center">
+        <img target="_blank" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=31mpx2l2o5yn2rnhdhhbvoospt6m&count=5&unique=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Contact Section -->
-<h2 align="center">🤝 Mari Terhubung!</h2>
+<h2 align="center">🤝 Let's Connect!</h2>
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
+  <!-- Row 1: Professional Contacts -->
+  <a href="mailto:fachru005@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://img.shields.io/badge/Let's_Connect_via_Email-black?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" />
+  <a href="www.linkedin.com/in/muhammad-fachru-buchori-83010728a" target="_blank" title="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
+  
+  <br/>
+  
+  <!-- Row 2: Social Media -->
+  <a href="https://www.instagram.com/f4_rpl2/" target="_blank" title="Follow me on Instagram">
+    <img src="https://img.shields.io/badge/Follow_on_Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  
+  <!-- Row 3: Tech Platform -->
+  <a href="https://huggingface.co/Fch404" target="_blank" title="View My Ai Model">
+    <img src="https://img.shields.io/badge/Check_My_AI_Models-black?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
   </a>
   
   <br/><br/>
   
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=fchdxcode&label=Pengunjung&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <!-- Profile Views with improved style -->
+  <img src="https://komarev.com/ghpvc/?username=fchdxcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
   
-  <!-- Footer -->
+  <!-- Footer with English content -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Terima+kasih+sudah+berkunjung!+✨;Mari+berkolaborasi!;Hubungi+saya+kapan+saja!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+collaborate!;Feel+free+to+reach+out!" />
   </h3>
 </div>
 

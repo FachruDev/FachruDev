@@ -114,15 +114,25 @@
   
   <br/><br/>
   
-  <!-- Detailed Stats -->
-  <details>
+<!-- Detailed Stats -->
+<details>
     <summary><b>📈 Statistik Detail</b></summary>
     <br/>
+    <!-- Profile Overview -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fchdxcode&theme=github_dark" width="100%" />
     <br/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fchdxcode&theme=github_dark" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fchdxcode&theme=github_dark" width="49%" />
-  </details>
+<!-- 4-Grid Stats Layout -->
+<div class="stats-grid">
+<!-- Language Distribution -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fchdxcode&theme=github_dark" width="49%" />
+<!-- Commit Distribution -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fchdxcode&theme=github_dark" width="49%" />
+<!-- Stats by Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fchdxcode&theme=github_dark&utcOffset=7" width="49%" />
+<!-- Monthly Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fchdxcode&theme=github_dark" width="49%" />
+</div>
+</details>
   
   <!-- Stats Grid -->
   <div>
@@ -140,15 +150,11 @@
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%">
   
-  <!-- 3D Contribution Graph -->
-  <h3>🎮 Visualisasi Kontribusi 3D</h3>
-  <a href="https://github.com/FchDxCode/FchDxCode/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="https://github.com/FchDxCode/FchDxCode/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
-  </a>
-
-  <!-- Activity Timeline -->
-  <h3>⏰ Pola Aktivitas</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FchDxCode&theme=github_dark&utcOffset=7" width="100%" />
+<!-- Alternative GitHub Activity Visualization -->
+<h3>📊 Visualisasi Aktivitas GitHub</h3>
+<div align="center">
+  <!-- Calendar Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FchDxCode&theme=github_dark" width="100%" />
   
   <br/>
 

@@ -186,15 +186,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FchDxCode&theme=github_dark" width="100%" />
   <br/>
 
-<!-- Spotify Now Playing -->
+<!-- Spotify Integration -->
 <div align="center">
-  <h3>🎵 Now Playing on Spotify</h3>
-  <a href="https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&track_id=7o0TPSw494RG2Q4iWmd1v6" />
+  <!-- Header -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎵+Musik+Favoritku" />
+  </h3>
+
+  <!-- Now Playing -->
+  <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
   </a>
-  <p align="center">
-    <small>Ado - うっせぇわ (Usseewa)</small>
-  </p>
+
+  <!-- Spotify Stats -->
+  <details>
+    <summary>📊 Statistik Spotify</summary>
+    <br/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpx2l2o5yn2rnhdhhbvoospt6m&count=5&unique=true" />
+  </details>
 </div>
 
 <!-- Contact Section -->

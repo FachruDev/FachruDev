@@ -41,7 +41,7 @@
   <!-- Quick Stats -->
   <p align="center">
     <img src="https://img.shields.io/badge/🎯_Specialization-Backend_Development-FF6B6B?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💡_Focus_On-Python_Backend-4ECDC4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💡_Focus_On-Backend_Engineer-4ECDC4?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🌱_Learning-Machine_Learning-95389E?style=for-the-badge" />
   </p>
 </div>

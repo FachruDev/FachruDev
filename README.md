@@ -1,197 +1,49 @@
-<!-- Custom Banner dengan Animasi -->
+<!-- Dynamic Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Fullstack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&desc=Python%20|%20Backend%20|%20AI%20Integration&descSize=20&descAlignY=62&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Fullstack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Product%20Engineer%20|%20Backend%20Developer%20|%20Prompt%20Engineering&descSize=20&descAlignY=70&descAlign=50" />
 </div>
-
-<!-- Header Typing Animation -->
+<!-- Professional Introduction with Typing Animation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;I'm+Fachru!;Fullstack+Developer;Turning+Ideas+Into+Code!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;I'm+Fachru;Web+Apps+AI+Integrated;Bridging+Code+and+AI" />
 </h1>
-
-<!-- Divider -->
+<!-- Clean Divider -->
+<hr>
+<!-- Profile Overview -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<!-- Profile Grid -->
-<div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="40%">
-        <img src="https://github-stats-alpha.vercel.app/api?username=fchdxcode&cc=000&tc=fff&ic=fff&bc=000" />
+      <td width="50%" align="center">
+        <img src="https://github-stats-alpha.vercel.app/api?username=fchdxcode&cc=22272e&tc=ffffff&ic=ffffff&bc=0000" />
       </td>
-      <td width="60%">
-        <h3 align="left">⚡ About Me</h3>
+      <td width="50%">
+        <h3 align="left">💡 Professional Profile</h3>
         <ul align="left">
-          <li>🚀 Current: <strong>Fullstack Developer specializing in Software & Web Apps</strong></li>
-          <li>💻 Tech Stack: <strong>Python, JavaScript, and Modern Technologies</strong></li>
-          <li>🔍 Interest: <strong>AI Integration Development</strong></li>
-          <li>🛠️ Expertise: <strong>Backend Development & System Architecture</strong></li>
-          <li>🎯 Projects: <strong>Scalable Solutions & AI-Powered Applications</strong></li>
+          <li>🚀 <strong>Fullstack Developer</strong> with experience in Python & JavaScript stacks </li>
+          <li>🤖 <strong>AI-Driven Backend</strong> integrates both API-based and locally-hosted LLMs (e.g., Gemini API, BERT)</li>
+          <li>🛠️ <strong>Prompt Engineering Enthusiast</strong> crafts effective prompts for AI-driven applications</li>
+          <li>📦 <strong>Backend Dev Powered By AI</strong> using stack python and javascript like (e.g., Django)</li>
+          <li>🌱 Exploring the shift from fullstack development to <strong>AI Product Engineering and AI Application Engineer</strong></li>
         </ul>
       </td>
     </tr>
-</table>
-  
-  <!-- Status -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Working_on_Projects-success?style=for-the-badge&logo=statuspage&logoColor=white" />
-</div>
-
-  <!-- Quick Stats -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/🎯_Specialization-Backend_Development-FF6B6B?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💡_Focus_On-Backend_Engineer-4ECDC4?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🌱_Learning-Machine_Learning-95389E?style=for-the-badge" />
+  </table>
+  <!-- Professional Status -->
+  <div>
+    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+  </div>
+  <!-- Professional Focus Areas -->
+  <p>
+    <img src="https://img.shields.io/badge/🔧_Primary-Fullstack_Development-0078D4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤖_Specialty-AI_Integration-00CC66?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📝_Expert_In-Python_Development-FF5A5F?style=for-the-badge" />
   </p>
 </div>
-
-<!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<div align="center">
-  <!-- Backend Development -->
-  <details open>
-    <summary><b>🔙 Backend Development</b></summary>
-    <br/>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    </p>
-    
-  <p align="center">
-        <!-- Languages -->
-        <img src="https://img.shields.io/badge/Python-50%25-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <br/>
-        <!-- Frameworks -->
-        <img src="https://img.shields.io/badge/Django-70%25-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-35%25-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-25%25-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-40%25-000000?style=flat-square&logo=express&logoColor=white" />
-    </p>
-</details>
-
-  <details open>
-    <summary><b>🎨 Frontend & Mobile</b></summary>
-    <br/>
-    <p align="center">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    </p>
-    
-  <!-- Skill Progress Badges -->
-  <p align="center">
-        <img src="https://img.shields.io/badge/CSS3-30%25-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-70%25-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/React-65%25-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-45%25-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-40%25-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    </p>
-</details>
-
-  <details open>
-    <summary><b>🗄️ Database & Tools</b></summary>
-    <p align="center">
-        <!-- Database -->
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <!-- Design -->
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-        <!-- Security -->
-        <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-    </p>
-    
-  <!-- Skill Progress Badges -->
-  <p align="center">
-        <!-- Database -->
-        <img src="https://img.shields.io/badge/MySQL-40%25-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-30%25-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <br/>
-        <!-- Design -->
-        <img src="https://img.shields.io/badge/Figma-60%25-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-75%25-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-        <br/>
-        <!-- Security -->
-        <img src="https://img.shields.io/badge/Nmap-60%25-0E83CD?style=flat-square&logo=nmap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Burpsuite-40%25-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireshark-30%25-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-    </p>
-</details>
-
-<details open>
-    <summary><b>🤖 AI Integration Skills</b></summary>
-    <br/>
-    <!-- Integration Platforms -->
-    <p align="center">
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/BERT-00A6D6?style=for-the-badge&logo=bert&logoColor=white" />
-    </p>
-    
-  <!-- Integration Skills -->
-  <p align="center">
-        <img src="https://img.shields.io/badge/Hugging_Face-30%25-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/RASA-20%25-5A17EE?style=flat-square&logo=rasa&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-40%25-412991?style=flat-square&logo=openai&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Gemini-35%25-8E75FF?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/BERT-50%25-00A6D6?style=flat-square&logo=bert&logoColor=white" />
-    </p>
-</details>
-
-<!-- GitHub Analytics -->
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fchdxcode&theme=algolia&no-frame=true&row=1&column=6" width="100%" />
-  
-  <br/><br/>
-  
-<!-- Detailed Stats -->
-<details>
-  <summary><b>📈 Detailed Statistics</b></summary>
-  <br/>
-  <div align="center">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=fchdxcode&theme=react&hide_border=true" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fchdxcode&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  </div>
-  
-  <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchdxcode&layout=compact&theme=react&hide_border=true" />
-  </div>
-</details>
-  
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%">
-  
-<!-- GitHub Activity Visualization -->
-<h3>📊 GitHub Activity Visualization</h3>
-<div align="center">
-  <!-- Calendar Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FchDxCode&theme=github_dark" width="100%" />
-  <br/>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 <!-- Spotify Integration -->
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎵+My+Favorite+Music" />
+    🎵Enjoy The Music
   </h3>
 
   <!-- Spotify Container -->
@@ -212,41 +64,147 @@
   </table>
 </div>
 
-<!-- Contact Section -->
-<h2 align="center">🤝 Let's Connect!</h2>
+<hr>
+<!-- Core Technical Expertise -->
+<h2 align="center">🛠️ Technical Expertise</h2>
+<details open>
+  <summary><b>Backend Development</b></summary>
+  <br>
+  <div align="start">
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </p>
+  </div>
+</details>
+<details open>
+  <summary><b>Frontend Development</b></summary>
+  <br>
+  <div align="start">
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Responsive_Design-FF6B6B?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/UI/UX-FF4088?style=flat-square&logo=figma&logoColor=white" />
+    </p>
+  </div>
+</details>
+<details open>
+  <summary><b>AI & Machine Learning</b></summary>
+  <br>
+  <div align="start">
+    <p>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLM_Integration-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/AI_Product_Development-8E75FF?style=flat-square&logo=google&logoColor=white" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/NLP-00A6D6?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chatbot_Development-43853D?style=flat-square&logo=dialogflow&logoColor=white" />
+    </p>
+  </div>
+</details>
+<details>
+  <summary><b>Database & Infrastructure</b></summary>
+  <br>
+  <div align="start">
+    <p>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </p>
+  </div>
+</details>
+<details>
+  <summary><b>DevOps & Security Tools</b></summary>
+  <br>
+  <div align="start">
+    <p>
+      <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+    </p>
+  </div>
+</details>
+
+<hr>
+
+<!-- GitHub Stats Section - More Professional and Concise -->
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <!-- Row 1: Professional Contacts -->
-  <a href="mailto:fachru005@gmail.com" target="_blank" rel="noopener noreferrer" title="Send me an email">
-    <img src="https://img.shields.io/badge/Let's_Connect_via_Email-black?style=for-the-badge&logo=gmail&logoColor=D14836" />
+  <!-- Professional GitHub Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=fchdxcode&theme=nord&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <div>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fchdxcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fchdxcode&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </div>
+  <!-- Contribution Graph - More Professional -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
+</div>
+<hr>
+<!-- Connect Section - Professional Networking -->
+<h2 align="center">🤝 Professional Network</h2>
+<div align="center">
+  <a href="mailto:fachru005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/muhammad-fachru-buchori-83010728a" target="_blank" rel="noopener noreferrer" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+  <a href="https://www.linkedin.com/in/muhammad-fachru-buchori-83010728a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <br/>
-  
-  <!-- Row 2: Social Media -->
-  <a href="https://www.instagram.com/f4_rpl2/" target="_blank" rel="noopener noreferrer" title="Follow me on Instagram">
-    <img src="https://img.shields.io/badge/Follow_on_Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <a href="https://huggingface.co/Fch404" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
-  
-  <!-- Row 3: Tech Platform -->
-  <a href="https://huggingface.co/Fch404" target="_blank" rel="noopener noreferrer" title="View My Ai Model">
-    <img src="https://img.shields.io/badge/Check_My_AI_Models-black?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <a href="https://www.instagram.com/f4_rpl2/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
-  <br/><br/>
-  
-  <!-- Profile Views with improved style -->
-  <img src="https://komarev.com/ghpvc/?username=fchdxcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  
-  <!-- Footer with English content -->
+</div>
+<br/>
+<!-- Profile Visits - Clean Design -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fchdxcode&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</div>
+<!-- Professional Footer -->
+<div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+collaborate!;Feel+free+to+reach+out!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=22&center=true&vCenter=true&width=500&height=55&duration=3000&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+amazing+together!;Connect+with+me+for+collaboration!" />
   </h3>
 </div>
-
 <!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 </div>

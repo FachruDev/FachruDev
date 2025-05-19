@@ -38,31 +38,6 @@
     <img src="https://img.shields.io/badge/📝_Expert_In-Python_Development-FF5A5F?style=for-the-badge" />
   </p>
 </div>
-<hr>
-
-<!-- Spotify Integration -->
-<div align="center">
-  <h3>
-    🎵Enjoy The Music
-  </h3>
-
-  <!-- Spotify Container -->
-  <table width="100%">
-    <tr>
-      <!-- Now Playing -->
-      <td width="50%" align="center">
-        <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m" target="_blank" rel="noopener noreferrer">
-          <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-        </a>
-      </td>
-      
-  <!-- Recently Played -->
-  <td width="50%" align="center">
-        <img target="_blank" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=31mpx2l2o5yn2rnhdhhbvoospt6m&count=5&unique=true" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <hr>
 <!-- Core Technical Expertise -->

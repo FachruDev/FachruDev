@@ -13,7 +13,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=fchdxcode&cc=22272e&tc=ffffff&ic=ffffff&bc=0000" />
+        <img src="https://github-stats-alpha.vercel.app/api?username=FachruDev&cc=22272e&tc=ffffff&ic=ffffff&bc=0000" />
       </td>
       <td width="50%">
         <h3 align="left">💡 Professional Profile</h3>
@@ -143,13 +143,13 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <!-- Professional GitHub Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=fchdxcode&theme=nord&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FachruDev&theme=nord&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
   <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fchdxcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fchdxcode&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FachruDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FachruDev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </div>
   <!-- Contribution Graph - More Professional -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchdxcode&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FachruDev&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
 </div>
 <hr>
 <!-- Connect Section - Professional Networking -->
@@ -171,7 +171,7 @@
 <br/>
 <!-- Profile Visits - Clean Design -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fchdxcode&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FachruDev&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </div>
 <!-- Professional Footer -->
 <div align="center">

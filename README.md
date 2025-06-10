@@ -170,9 +170,9 @@
 </div>
 <br/>
 <!-- Profile Visits - Clean Design -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FachruDev&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</div>
+</div> -->
 <!-- Professional Footer -->
 <div align="center">
   <h3>

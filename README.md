@@ -155,16 +155,16 @@
 <!-- Connect Section - Professional Networking -->
 <h2 align="center">🤝 Professional Network</h2>
 <div align="center">
-  <a href="mailto:fachru005@gmail.com" target="_blank">
+  <a href="mailto:fachrucoder.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-fachru-buchori-83010728a" target="_blank">
+  <a href="https://www.linkedin.com/in/fachru-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/Fch404" target="_blank">
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
-  <a href="https://www.instagram.com/f4_rpl2/" target="_blank">
+  <a href="https://www.instagram.com/fch.code" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>

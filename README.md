@@ -2,12 +2,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Fullstack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Product%20Engineer%20|%20Backend%20Developer%20|%20Prompt%20Engineering&descSize=20&descAlignY=70&descAlign=50" />
 </div>
-<!-- Professional Introduction with Typing Animation -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;I'm+Fachru;Web+Apps+AI+Integrated;Bridging+Code+and+AI" />
-</h1>
-<!-- Clean Divider -->
-<hr>
+
 <!-- Profile Overview -->
 <div align="center">
   <table border="0">
@@ -76,11 +71,7 @@
   <img src="https://komarev.com/ghpvc/?username=FachruDev&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </div> -->
 <!-- Professional Footer -->
-<div align="center">
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=22&center=true&vCenter=true&width=500&height=55&duration=3000&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+amazing+together!;Connect+with+me+for+collaboration!" />
-  </h3>
-</div>
+
 <!-- Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>

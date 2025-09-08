@@ -1,6 +1,6 @@
 <!-- Dynamic Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Fullstack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Product%20Engineer%20|%20Backend%20Developer%20|%20Prompt%20Engineering&descSize=20&descAlignY=70&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Software%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Enthusiasts&descSize=20&descAlignY=70&descAlign=50" />
 </div>
 
 <!-- Profile Overview -->

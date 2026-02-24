@@ -98,7 +98,7 @@
 <h2 align="center">🌊 3D Contribution Skyline</h2>
 
 <div align="center">
-  <img src="https://github.com/FachruDev/FachruDev/blob/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/FachruDev/FachruDev/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <!-- DIVIDER -->

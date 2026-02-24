@@ -1,95 +1,154 @@
-<!-- Dynamic Header Banner -->
+<!-- WAVE HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Software%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Enthusiasts&descSize=20&descAlignY=70&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Fachru%20Dev&fontSize=60&fontColor=fff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20AI%20Engineer&descSize=18&descAlignY=75" />
 </div>
 
-<!-- Profile Overview -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=FachruDev&cc=22272e&tc=ffffff&ic=ffffff&bc=0000" />
-      </td>
-      <td width="50%">
-        <h3 align="left">💡 Professional Profile</h3>
-        <ul align="left">
-          <li>🚀 <strong>Fullstack Developer</strong> with experience in Python & JavaScript stacks </li>
-          <li>🤖 <strong>AI-Driven Backend</strong> integrates both API-based and locally-hosted LLMs (e.g., Gemini API, BERT)</li>
-          <li>🛠️ <strong>Prompt Engineering Enthusiast</strong> crafts effective prompts for AI-driven applications</li>
-          <li>📦 <strong>Backend Dev Powered By AI</strong> using stack python and javascript like (e.g., Django)</li>
-          <li>🌱 Exploring the shift from fullstack development to <strong>AI Product Engineering and AI Application Engineer</strong></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  <!-- Professional Status -->
-  <div>
-    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-success?style=for-the-badge&logo=statuspage&logoColor=white" />
-  </div>
-  <!-- Professional Focus Areas -->
-  <p>
-    <img src="https://img.shields.io/badge/🔧_Primary-Fullstack_Development-0078D4?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤖_Specialty-AI_Integration-00CC66?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/📝_Expert_In-Python_Development-FF5A5F?style=for-the-badge" />
-  </p>
-</div>
-
-<hr>
-
-<!-- GitHub Stats Section - More Professional and Concise -->
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <!-- Professional GitHub Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=FachruDev&theme=nord&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
-  <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FachruDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FachruDev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </div>
-  <!-- Contribution Graph - More Professional -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FachruDev&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
-</div>
-<hr>
-<!-- Connect Section - Professional Networking -->
-<h2 align="center">🤝 Professional Network</h2>
-<div align="center">
-  <a href="mailto:fachrucoder.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/fachru-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://huggingface.co/Fch404" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  </a>
-  <a href="https://www.instagram.com/fch.code" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
 <br/>
 
-<!-- Profile count -->
+<!-- STATS BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FachruDev&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FachruDev&label=👀+PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
 </div>
 
-<!-- Spotify Integration -->
-<div align="center">
-  <!-- Header -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎵+let's+listen+together" />
-  </h3>
+<br/>
 
-  <!-- Now Playing -->
+<!-- ABOUT SECTION WITH IMAGE -->
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 15px;" />
+</div>
+
+### 💡 About Me
+
+- 🚀 **Fullstack Developer** dengan fokus Python & JavaScript
+- 🤖 **AI-Driven Backend** - integrasi LLM (Gemini API, BERT, dsb)
+- ⚡ **Prompt Engineering Enthusiast** - crafting effective AI prompts
+- 🛠️ **Tech Stack:** Django, Flask, FastAPI, React, Next.js, TailwindCSS
+- 🌱 Sedang transisi ke **AI Product Engineering**
+- 📍 **Location:** Bogor, Indonesia 🇮🇩
+
+<br clear="both"/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+  
+  **Languages**  
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" />
+  
+  <br/><br/>
+  
+  **Backend**  
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express&theme=dark" />
+  
+  <br/><br/>
+  
+  **Frontend**  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss&theme=dark" />
+  
+  <br/><br/>
+  
+  **AI & Tools**  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,linux,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/🤗-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FachruDev&theme=algolia&no-frame=true&row=1&column=7" width="100%" />
+  
+  <br/><br/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FachruDev&show_icons=true&theme=algolia&hide_border=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FachruDev&theme=algolia&hide_border=true&fire=FF6B6B" />
+  
+  <br/><br/>
+  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FachruDev&theme=algolia&hide_border=true&layout=donut-vertical&langs_count=8" />
+  <img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=FachruDev&theme=react-dark&hide_border=true&area=true&line=00F0FF" />
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- SNAKE ANIMATION -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FachruDev/FachruDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FachruDev/FachruDev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/FachruDev/FachruDev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 3D CONTRIBUTIONS -->
+<h2 align="center">🌊 3D Contribution Skyline</h2>
+
+<div align="center">
+  <img src="https://github.com/FachruDev/FachruDev/blob/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- SPOTIFY -->
+<h2 align="center">🎵 Vibe Check</h2>
+
+<div align="center">
   <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=00F0FF" />
   </a>
-
-  <!-- Spotify Stats -->
-  <br/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpx2l2o5yn2rnhdhhbvoospt6m&count=5&unique=true" />
+  <br/><br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpx2l2o5yn2rnhdhhbvoospt6m&count=5&unique=true" />
 </div>
 
-<!-- Footer Banner -->
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- CONNECT -->
+<h2 align="center">🤝 Let's Connect</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+  <a href="mailto:fachrucoder.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fachru-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/Fch404">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://www.instagram.com/fch.code">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=30&fontColor=fff" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Made%20with-🔥-ff6b6b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-6f4e37?style=for-the-badge" />
 </div>

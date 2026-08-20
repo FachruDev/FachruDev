@@ -109,10 +109,8 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31mpx2l2o5yn2rnhdhhbvoospt6m">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mpx2l2o5yn2rnhdhhbvoospt6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=00F0FF" />
-  </a>
-  <br/><br/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpx2l2o5yn2rnhdhhbvoospt6m&count=5&unique=true" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mpx2l2o5yn2rnhdhhbvoospt6m&amp;count=6&amp;width=700&amp;radius=15&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="700" />
+</a>
 </div>
 
 <!-- DIVIDER -->
